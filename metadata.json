@@ -1,0 +1,6 @@
+{
+  "name": "Kuro — Estudio Imperial 2D & Blender Grease Pencil",
+  "description": "Estudio interactivo y generador de scripts para Blender 2D (Grease Pencil) enfocado en el diseño de un gato negro con trazos caligráficos japoneses/chinos y fondo minimalista en acuarela.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
